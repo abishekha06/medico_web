@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/medico_web/static/css/main.ffa313f7.css",
+    "main.js": "/medico_web/static/js/main.48fde789.js",
+    "static/js/787.d82d19cb.chunk.js": "/medico_web/static/js/787.d82d19cb.chunk.js",
+    "static/media/logo.svg": "/medico_web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/medico_web/index.html",
+    "main.ffa313f7.css.map": "/medico_web/static/css/main.ffa313f7.css.map",
+    "main.48fde789.js.map": "/medico_web/static/js/main.48fde789.js.map",
+    "787.d82d19cb.chunk.js.map": "/medico_web/static/js/787.d82d19cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa313f7.css",
+    "static/js/main.48fde789.js"
+  ]
+}

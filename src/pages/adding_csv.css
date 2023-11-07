@@ -1,0 +1,45 @@
+/* .csv_list{
+   
+   background-color: azure;
+} */
+.csv_frame{
+    height: 50%;
+    width: 50%;
+    border: 1px solid black;
+    margin-top: 4%;
+    margin-left: 25%;
+    background-color:rgb(126, 123, 127);
+    /* border-radius: 5%; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.csv_text{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 13%;
+    margin-bottom: 10%;
+}
+.csv_button1{
+   
+    margin-left: 46%;
+}
+
+
+.custom-file-input::after {
+    content: 'Choose a CSV file';
+    display: inline-block;
+    background: #ccc;
+    padding: 5px 10px;
+    border: 1px solid #888;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-file-input input[type="file"] {
+    display: none;
+  }
+
+  .tables{
+    width: 100%;
+    overflow: hidden;
+    overflow-block: scroll;
+  }

@@ -1,0 +1,34 @@
+/* .nav-link{
+    color: antiquewhite;
+} */
+
+
+.navbar{
+    min-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+}
+
+
+   body { 
+    overflow:hidden;
+  }
+  /* @media (max-width: 769px) {
+    .navbar {
+      width: 437px; 
+      height: auto; 
+      overflow: hidden;
+     
+    }
+  }   */
+  @media (max-width: 769px) {
+    .navbar {
+      width: 100%; 
+      height: 100%;
+      height: auto;
+
+    }
+  }
+    
+
